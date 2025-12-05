@@ -1,0 +1,2 @@
+# kecerdasan-buatan
+kumpulan tugas
